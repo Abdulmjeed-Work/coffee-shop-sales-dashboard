@@ -1,7 +1,5 @@
 # Coffee Shop Sales Dashboard (Excel)
 
-![Dashboard](Coffee Sales Dashboard.png)
-
 ## Question
 When do customers buy the most, and what do they buy?
 
